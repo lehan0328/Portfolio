@@ -251,6 +251,7 @@ button:focus {
 }
 
 .home-header {
+  margin-left: 20%!important ;
   padding-top: 80px !important;
 }
 

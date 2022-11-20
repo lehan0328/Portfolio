@@ -13,17 +13,14 @@ function Footer() {
   return (
     <Container fluid className="footer">
       <Row>
-        <Col md="4" className="footer-copywright">
-          <h3>Designed and Developed by Lehan Ouyang</h3>
-        </Col>
-        <Col md="4" className="footer-copywright">
+        <Col md="12" className="footer-copywright">
           <h3>Copyright © {year}</h3>
         </Col>
-        <Col md="4" className="footer-body">
+        <Col md="0.5" className="footer-body">
           <ul className="footer-icons">
             <li className="social-icons">
               <a
-                href="https://github.com/soumyajit4419"
+                href="https://github.com/lehan0328"
                 style={{ color: "white" }}
                 target="_blank" 
                 rel="noopener noreferrer"
@@ -33,7 +30,7 @@ function Footer() {
             </li>
             <li className="social-icons">
               <a
-                href="https://twitter.com/Soumyajit4419"
+                href="https://www.linkedin.com/in/lehan-ouyang-296160222/"
                 style={{ color: "white" }}
                 target="_blank" 
                 rel="noopener noreferrer"
@@ -43,7 +40,7 @@ function Footer() {
             </li>
             <li className="social-icons">
               <a
-                href="https://www.linkedin.com/in/soumyajit4419/"
+                href="https://www.linkedin.com/in/lehan-ouyang-296160222/"
                 style={{ color: "white" }}
                 target="_blank" 
                 rel="noopener noreferrer"

@@ -31,7 +31,7 @@ function Projects() {
               imgPath={augmented}
               isBlog={false}
               title="Task Manager"
-              description="Personal Chat Room or Workspace to share resources and hangout with friends build with react.js, Material-UI, and Firebase. Have features which allows user for realtime messaging, image sharing as well as supports reactions on messages."
+              description="Full stack MERN application to help with daily task management. "
               ghLink="https://github.com/lehan0328/NYUAugmentedLibrary"
               demoLink=""
             />
